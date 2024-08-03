@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/shanee-patel-464475238/"target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://x.com/PatelShane96613" target="_blank">
+  <a href="https://x.com/shanee_patel" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-FF5722?style=for-the-badge&logo=X&logoColor=white" target="_blank" /> 
   </a>
 <!--   <a href="https://x.com/PatelShane96613" target="_blank">
