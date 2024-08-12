@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://x.com/shanee_patel" target="_blank">
-     <img src="https://img.shields.io/badge/Twitter-FF5722?style=for-the-badge&logo=X&logoColor=white" target="_blank" /> 
+     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" target="_blank" /> 
   </a>
    <a href="https://www.instagram.com/shanee_________/"target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Instagram-FF5722?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank" />
   </a>
 <!--   <a href="https://x.com/PatelShane96613" target="_blank">
      <img src="https://img.shields.io/badge/InstaGram-FF5722?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank" /> 
