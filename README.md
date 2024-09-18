@@ -26,7 +26,7 @@ I am a Software Engineer . I love programming, reading, writing and speaking.
 
 I lead the charge in crafting amazing user experiences from the ground up.
 
-Give me a problem, and I'll throw my whole toolbox at it – I'm fluent in both frontend development. 
+Give me a problem, and I'll throw my whole toolbox at it – I'm fluent in both Frontend Development. 
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="340" height="260" />
 <!--  <img align="right" alt="GIF" src="https://github.com/user-attachments/assets/7ef7c9a3-a2b7-4d67-872f-4a79be718e7f" width="340" height="256" /> -->
