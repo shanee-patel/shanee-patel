@@ -22,7 +22,7 @@
 
 <h1 align="center"><bold>A Passionate Software Developer from India </bold></h1>
 
-I am a Software Engineer . I love programming, reading, writing and speaking.
+I am a Software Engineer . I love Programming, reading, writing and speaking.
 
 I lead the charge in crafting amazing user experiences from the ground up.
 
